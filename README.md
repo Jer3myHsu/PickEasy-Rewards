@@ -1,3 +1,22 @@
-# Team 4
+# PickEasy Rewards
 
-This is team 4's repository. The repository is organized so our team's deliverables are stored inside folders based on deliverable numbers, along with their corresponding presentation. All of the code we are creating for our pickeasy project will be stored inside the pick-easy folder.
+This project contains a loyalty system web app for a start-up called [PickEasy](https://www.pickeasy.ca/) that won 1st place in the 2020 Summer Software Engineering course (CSCC01) at UTSC.
+
+This project was developed by:
+* Jeremy Hsu
+* [Luke Zhang](https://github.com/Smawllie)
+* [Evan Ng](https://github.com/Evan8456)
+* [Anthony Alaimo](https://github.com/AnthonyAlaimo)
+* [Pravinthan Prabagaran](https://github.com/pravinthan)
+
+## Screenshots
+
+![alt text](/pick-easy/src/assets/demo.png)
+
+## How to run
+
+Use command `npm run dev`
+
+## Release
+
+http://pick-easy.herokuapp.com/#/
